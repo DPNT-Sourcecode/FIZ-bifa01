@@ -1,3 +1,1 @@
-function gigi() {
- var x = [11, 111, 1111].includes(11);
-}
+var fn = require('lib/solutions/fizz_buzz')
