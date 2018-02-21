@@ -1,3 +1,3 @@
 var fn = require('./lib/solutions/fizz_buzz.js');
 
-console.log(fn(33));
+console.log(fn(163));
